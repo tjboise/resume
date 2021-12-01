@@ -1,3 +1,2 @@
 #### Welcome to my personal website!💖
-
-https://tianjiezhang1993.github.io/resume/
+- [judy's website](https://www.JudyJo.github.io)
